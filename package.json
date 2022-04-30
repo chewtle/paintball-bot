@@ -1,0 +1,28 @@
+{
+  "name": "paintball-bot",
+  "version": "43.0.0",
+  "description": "Discord bot providing commands and functions for a private Discord server",
+  "main": "index.js",
+  "engines": {
+    "node": "14.15.2",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "chewtle",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "prompt": "^1.0.0",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
