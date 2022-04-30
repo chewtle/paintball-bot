@@ -8,6 +8,7 @@ Paintball is a Discord bot that provides role-colour-changing functionalities, U
 - [The Color API](https://www.thecolorapi.com/docs) - Provides colour naming
 - [RapidAPI Urban Dictionary API](https://rapidapi.com/community/api/urban-dictionary) - Provides Urban Dictionary definitions
 - [Last.fm Music Discovery API](https://www.last.fm/api/intro) - Provides Last.fm integration
+- Hosted on [Heroku](https://www.heroku.com/)
 
 ## License
 [ISC](https://www.isc.org/licenses/)
